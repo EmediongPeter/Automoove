@@ -2,13 +2,13 @@
 
 This is one of my first projects in react - An Image Slider that has functionalities suitable for effective user experience including Screen Readers
 
-Currently, the project is live via this link: [The Ultimate Beginner Image Slider](https://imageslider.vercel.app)
+Currently, the project is live via this link: [A Show Room of your favourite brands of cars](https://imageslider.vercel.app)
 
 ## Expanding more on How I built the project
 
 I developed this application with the help of Kyle, the founder of [Web Dev Simplified](https://youtube.com/webdevsimplified). But as we devs all know, just watching tutorials, copying and pasting the codes without proper understanding of the concepts behind these things isn't the right way to learn.
 
-So after proper understanding of the concepts Kyle used, I decided to add a few  features to the project that will be intriguing, maybe solve a problem for someone, and I must say <b>I really learnt a lot by putting that extra 1% effort, if not I'll still be stuck in the tutorial hell</b>
+So after proper understanding of the concepts Kyle used, I decided to add a few features to the project that will be intriguing, maybe solve a problem for someone, and I must say <b>I really learnt a lot by putting that extra 1% effort, if not I'll still be stuck in the tutorial hell</b>
 
 So below are the features I implemented:
 
